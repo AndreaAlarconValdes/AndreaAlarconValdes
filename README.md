@@ -10,7 +10,7 @@
 
 <img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/userupload/9983899/file/large-a7859e60224703906d66707d57215e1f.mp4" />
 
-### I am a Full Stack Developer at Vaionex Corporation
+### I am a Full Stack Developer
 
 - 🌱 I’m currently learning and improving my tech and creative skills
 - 👯 I am looking for a new job opportunity where I can grow 
