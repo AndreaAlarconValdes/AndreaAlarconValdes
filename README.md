@@ -7,7 +7,7 @@
 
 <br>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+<img align="right" margin-top="20px" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
 
 
@@ -20,22 +20,7 @@
 - ⚡ Fun fact: I love animals, plants and nature
   </br>
 
-<h3 align="left">▶ Connect with me:</h3>
-    <a href="https://www.linkedin.com/in/andreaalarconvaldes"><img align="right" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" alt="Andrea's LinkedIn" /></a>
-    <a href="mailto:andreaalarconvaldes@gmail.com"><img align="right" width="20px" src="https://simpleicons.now.sh/maildotru/495f7e" alt="Andrea's Facebook" /></a>
+### Connect with me
+ <a href="https://www.linkedin.com/in/andreaalarconvaldes"><img  width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" alt="Andrea's LinkedIn" /></a>
+ <a href="mailto:andreaalarconvaldes@gmail.com"><img  width="20px" src="https://simpleicons.now.sh/maildotru/495f7e" alt="Andrea's Facebook" /></a>
 </br>
-
-<h3 align="left">▶ Languages and Tools:</h3>
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-<!-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square) -->
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-<!-- ![MySQL](https://img.shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue) -->
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
