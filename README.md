@@ -7,7 +7,8 @@
 
 <br>
 
-<img align="right" margin-top="20px" height="270px" alt="GIF" src="https://i.gifer.com/6M8G.gif" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
 
 
 ### I'm a Full Stack Developer
