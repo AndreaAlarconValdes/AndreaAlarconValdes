@@ -7,9 +7,8 @@
 
 <br>
 
-<video align="right" margin-top="20px" height="270px" controls autoplay loop> 
-<source src="./coding.mp4" type="video/mp4">
-</video>
+<img align="right" margin-top="20px" height="270px" alt="GIF" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*yBvA5CnEX3Sd4aod.gif" />
+
 
 ### I'm a Full Stack Developer
 
