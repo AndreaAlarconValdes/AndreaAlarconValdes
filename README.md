@@ -7,8 +7,8 @@
 
 <br>
 
-<video align="right" margin-top="20px" height="270px" controls> 
-<source src="./public/coding.mp4" type="video/mp4">
+<video align="right" margin-top="20px" height="270px" controls autoplay loop> 
+<source src="./coding.mp4" type="video/mp4">
 </video>
 
 ### I'm a Full Stack Developer
