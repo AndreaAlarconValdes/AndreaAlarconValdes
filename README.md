@@ -16,7 +16,7 @@
 - 👯 I am looking for a new job opportunity where I can grow 
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: ![Let's get in touch!](https://www.linkedin.com/in/andreaalarconvaldes)
-- ⚡ Fun fact: I love animals, plants and nature :raised_hands:
+- ⚡ Fun fact: I love animals, plants and nature
   </br>
 
 <h3 align="left">▶ Connect with me:</h3>
