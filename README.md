@@ -4,10 +4,10 @@
 <h3 align="center">Passionate full-stack developer with a particular focus on front-end. Loves building mobile and web applications using the latest technologies available 😄
 </h3>
 
-<br>
 
 ##
 
+<br>
 <img align="right"  alt="GIF" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
 ### Learn more about me
