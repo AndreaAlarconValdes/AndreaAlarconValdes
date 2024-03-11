@@ -1,13 +1,12 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Andrea!+👋;I'm+a+Full+Stack+Developer;I'm+a+Front+End+Developer)
 
-## 🧐 About
 
 <h3 align="center">Passionate full-stack developer with a particular focus on front-end. Loves building mobile and web applications using the latest technologies available.😄
 </h3>
 
 <br>
 
-<img align="right" margin-top="20px" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+<img align="right" margin-top="50px" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
 
 
