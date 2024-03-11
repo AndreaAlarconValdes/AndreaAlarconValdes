@@ -7,7 +7,9 @@
 
 <br>
 
-<video align="right" margin-top="20px" height="270px"> <source src="https://cdn.dribbble.com/userupload/9983899/file/large-a7859e60224703906d66707d57215e1f.mp4" type="video/mp4"></video>
+<video align="right" margin-top="20px" height="270px" controls> 
+<source src="https://cdn.dribbble.com/userupload/9983899/file/large-a7859e60224703906d66707d57215e1f.mp4" type="video/mp4">
+</video>
 
 ### I'm a Full Stack Developer
 
