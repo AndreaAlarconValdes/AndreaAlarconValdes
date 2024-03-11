@@ -7,7 +7,7 @@
 
 <br>
 
-<img align="right" margin-top="20px" height="270px" alt="GIF" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*yBvA5CnEX3Sd4aod.gif" />
+<img align="right" margin-top="20px" height="270px" alt="GIF" src="https://i.gifer.com/6M8G.gif" />
 
 
 ### I'm a Full Stack Developer
