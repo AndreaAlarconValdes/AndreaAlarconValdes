@@ -12,8 +12,7 @@
 
 - 🌍 I'm originally from Barcelona and currently based in Dublin
 - 🌱 I'm constantly learning and improving my technical skills
-- 👯 I'm on the lookout for a new job opportunity where we can have a growth spurt together
-- 💬 Ask me about anything, I'm happy to help :smile:
+- 💻 I'm currently interested in exploring new job opportunities
 - 📬 How to reach me: Send me a message on [LinkedIn](https://www.linkedin.com/in/andreaalarconvaldes) or have a look at my portfolio
 - ⚡ Fun fact: I'm a lover of animals, plants, travel and hiking.
 
@@ -53,5 +52,5 @@
 </div>
 </br>
 
-<img align="center"  alt="GIF" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
   </br>
+<img align="center"  alt="GIF" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
