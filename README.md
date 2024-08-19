@@ -17,8 +17,6 @@
 - 📬 How to reach me: Send me a message on [LinkedIn](https://www.linkedin.com/in/andreaalarconvaldes) or have a look at my portfolio
 - ⚡ Fun fact: I'm a lover of animals, plants, travel and hiking.
 
-<img align="center"  alt="GIF" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  </br>
 
 ### Skills
 
@@ -54,3 +52,6 @@
 </a>
 </div>
 </br>
+
+<img align="center"  alt="GIF" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+  </br>
