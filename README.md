@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Andrea!+👋;I'm+a+Full+Stack+Developer;I'm+a+Front+End+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Andrea!+👋)
 
 <h3 align="center">Passionate full-stack developer with a particular focus on front-end. Loves building mobile and web applications using the latest technologies available 😄
 </h3>
@@ -10,12 +10,12 @@
 
 ### Learn more about me
 
-- 🌍 I'm based in Gavá, Barcelona
-- 🌱 I’m currently learning and improving my tech and creative skills
-- 👯 I am looking for a new job opportunity where I can grow
-- 💬 Ask me about anything, I am happy to help :smile:
+- 🌍 I'm originally from Barcelona and currently based in Dublin
+- 🌱 I'm constantly learning and improving my technical skills
+- 👯 I'm on the lookout for a new job opportunity where we can have a growth spurt together
+- 💬 Ask me about anything, I'm happy to help :smile:
 - 📬 How to reach me: Send me a message on [LinkedIn](https://www.linkedin.com/in/andreaalarconvaldes) or have a look at my portfolio
-- ⚡ Fun fact: I love animals, plants and nature
+- ⚡ Fun fact: I'm a lover of animals, plants, travel and hiking.
 
 <img align="center"  alt="GIF" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
   </br>
