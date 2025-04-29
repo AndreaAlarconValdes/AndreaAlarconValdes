@@ -1,21 +1,21 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Andrea!+👋)
 
-<h3 align="center">Passionate full-stack developer with a particular focus on front-end. Loves building mobile and web applications using the latest technologies available 😄
+<h3 align="center"> Full-stack developer specialising in front-end development.
 </h3>
+<p align="center">Passionate about creating attractive and functional interfaces, always focused on delivering intuitive and user-centered experiences. I enjoy the creative process, blending design and development to achieve smooth and meaningful interactions. </p>
 
 ##
 
 <br>
 
-
 ### Learn more about me
 
 - 🌍 I'm originally from Barcelona and currently based in Dublin
 - 🌱 I'm constantly learning and improving my technical skills
+- 🧠 I am studying Google Ads to boost my career
 - 💻 I'm currently interested in exploring new job opportunities
 - 📬 How to reach me: Send me a message on [LinkedIn](https://www.linkedin.com/in/andreaalarconvaldes) or have a look at my portfolio
 - ⚡ Fun fact: I'm a lover of animals, plants, travel and hiking.
-
 
 ### Skills
 
