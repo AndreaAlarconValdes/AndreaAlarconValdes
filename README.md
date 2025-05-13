@@ -14,7 +14,7 @@
 - 🌱 I'm constantly learning and improving my technical skills
 - 🧠 I am studying Google Ads to boost my career
 - 💻 I'm currently interested in exploring new job opportunities
-- 📬 How to reach me: Send me a message on [LinkedIn](https://www.linkedin.com/in/andreaalarconvaldes) or have a look at my portfolio
+- 📬 How to reach me: Send me a message on [LinkedIn](https://www.linkedin.com/in/andreaalarconvaldes) or have a look at [MY PORTFOLIO](https://andreaalarconvaldes.github.io/portfolio-andrea/)
 - ⚡ Fun fact: I'm a lover of animals, plants, travel and hiking.
 
 ### Skills
@@ -46,7 +46,7 @@
 <a href="mailto:andreaalarconvaldes@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/email-%23BB001B.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt=mail  />
 </a>
-<a href="" target="_blank">
+<a href="https://andreaalarconvaldes.github.io/portfolio-andrea/" target="_blank">
 <img src="https://img.shields.io/badge/Website-%23707070.svg?&style=for-the-badge&logo=google-cloud&logoColor=white" alt=website  />
 </a>
 </div>
