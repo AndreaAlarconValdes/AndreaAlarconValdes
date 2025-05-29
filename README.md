@@ -56,5 +56,5 @@
   </br>
 
 <a href="https://andreaalarconvaldes.github.io/portfolio-andrea/" target="_blank">
-<img src="./portfolio.png" alt=website  />
+<img src="./portfolio-mockup.png" alt=website  />
 </a>
