@@ -1,15 +1,14 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Andrea!+👋)
 
 <h3 align="center">Full Stack Developer | React, TypeScript, Node.js, Express.js, MongoDB & SQL</h3>
-<p align="center">I enjoy creating clean and efficient solutions with modern JavaScript tools like React, Node.js, Express, TypeScript, and MongoDB. </p>
-<p align="center"> I’ve worked in a startup, delivered freelance projects, and keep learning every day.</p>
-<p align="center">I love turning complex ideas into functional products—whether it’s full stack apps, REST APIs, database design, testing, or responsive interfaces. </p>
+<p align="center">I truly enjoy the creative side of development—designing clean, intuitive interfaces and scalable applications, but you can also find me deep into database modeling, API architecture, testing, and everything in between.</p>
 
 ##
 
 ### Learn more about me
 
 - 🌍 I'm originally from Barcelona and currently based in Dublin
+- 🧠 I speak fluent English, Spanish and Catalan
 - 🌱 I'm constantly learning and improving my technical skills
 - 💻 I'm currently interested in exploring new job opportunities
 - 📬 How to reach me: Send me a message on [LinkedIn](https://www.linkedin.com/in/andreaalarconvaldes) or have a look at [MY PORTFOLIO](https://andreaalarconvaldes.github.io/portfolio-andrea/)
