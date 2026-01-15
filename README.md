@@ -1,20 +1,24 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Andrea!+👋)
 
 <h3 align="center">Full Stack Developer | React, TypeScript, Node.js, Express.js, MongoDB & SQL</h3>
-<p align="center">I truly enjoy the creative side of development—designing clean, intuitive interfaces and scalable applications, but you can also find me deep into database modeling, API architecture, testing, and everything in between.</p>
+<p align="center">I build beautiful, user-friendly web apps and scalable backends. Passionate about clean code, responsive design, and learning new technologies every day. 🌱</p>
+
 
 ##
 
 ### Learn more about me
 
-- 🌍 I'm originally from Barcelona and currently based in Dublin
-- 🧠 I speak fluent English, Spanish and Catalan
-- 🌱 I'm constantly learning and improving my technical skills
-- 💻 I'm currently interested in exploring new job opportunities
+- 🌍 Based in Dublin, originally from Barcelona
+- 🧠 Fluent in English, Spanish and Catalan
+- 💡 Passionate about creating scalable web applications and intuitive UI/UX
+- 🤖 Currently self-studying Artificial Intelligence, exploring machine learning and neural networks to expand my full-stack skill set
+- 💻 Currently exploring new job opportunities in full-stack development
 - 📬 How to reach me: Send me a message on [LinkedIn](https://www.linkedin.com/in/andreaalarconvaldes) or have a look at [MY PORTFOLIO](https://andreaalarconvaldes.github.io/portfolio-andrea/)
-- ⚡ Fun fact: I'm a lover of animals, plants, travel and hiking.
+- ⚡ Fun fact: Love animals, hiking, plants, and traveling
 
 ### Skills
+
+**Frontend:**  
 
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -26,18 +30,27 @@
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+</p>
+
+**Backend:**  
+
+<p align="center">
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+</p>
+
+**Tools & Others:**  
+
+<p align="center">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.visualstudiocode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</P>
-<!-- <img align="center"  alt="GIF" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"> -->
+</p>
   </br>
 
-### Connect with me
+### 📫 Connect with me
 
 <div align="center">
 <a href="https://www.linkedin.com/in/andreaalarconvaldes" target="_blank">
@@ -55,5 +68,5 @@
   </br>
 
 <a href="https://andreaalarconvaldes.github.io/portfolio-andrea/" target="_blank">
-<img src="./portfolio-mockup.png" alt=website  />
+<img src="./readme-banner.png" alt=website  />
 </a>
